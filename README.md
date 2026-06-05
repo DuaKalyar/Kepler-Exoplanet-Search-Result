@@ -5,7 +5,6 @@
 
 **Developed by:** **Dua Kalyar**
 📊 **Dataset Source:** NASA Kepler Exoplanet Catalog (Kaggle)
-📓 **Core Notebook:** `Final1.ipynb`
 🎯 **Permanent Publication Record:** https://doi.org/10.5281/zenodo.20364051
 
 ---
